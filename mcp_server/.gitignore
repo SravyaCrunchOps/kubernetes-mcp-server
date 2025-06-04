@@ -1,0 +1,7 @@
+./reade.md
+.env
+./aks-ca.crt
+./*.crt
+./venv
+./.venv
+./__pycache__

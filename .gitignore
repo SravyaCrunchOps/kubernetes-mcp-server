@@ -1,0 +1,12 @@
+./fast-agent-client/fastagent.secrets.yaml
+./fast-agent-client/fastagent.jsonl
+./fast-agent-client/_pycache__
+
+./mcp_server/reade.md
+./mcp_server/.env
+./mcp_server/aks-ca.crt
+./mcp_server/*.crt
+./mcp_server/venv
+./mcp_server/venv
+
+./mcp_server/__pycache__
